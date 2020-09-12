@@ -1,4 +1,5 @@
-# UTSAV - ​ A platform for the annual sports fest of DSVV
+# UTSAV -  A platform for the annual sports fest of DSVV
+# (COMING SOON)
 
 ## Team Members
 Aniket Kumar and Pranav Mishra
